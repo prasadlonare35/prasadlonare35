@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Prasad!  
 
-🎓 *AI & Data Science Engineering Student* | ☕ Java & Python Enthusiast | 📱 Aspiring Android Developer
+🎓 *AI & Data Science Engineering Student* | ☕ Java & Python Enthusiast 
 
 ---
 
