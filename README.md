@@ -23,7 +23,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadlonare35&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadlonare35&layout=compact&theme=radical)
 
 ---
@@ -34,7 +33,7 @@
 - 🧪 **MolVista AI** – AI-powered drug design and molecular docking
 
 ---
-<!--START_SECTION:waka-->
+
 **I'm an early 🐤** 
 
 ```text
@@ -55,4 +54,3 @@
 
 > 🌱 *“Code. Learn. Share. Repeat.”*  
 > Made with ❤️ by Prasad
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=prasadlonare35)
