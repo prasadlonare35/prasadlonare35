@@ -3,10 +3,7 @@
 🎓 *AI & Data Science Engineering Student* | ☕ Java & Python Enthusiast 
 
 ---
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/prasadlonare35/count.svg" />
-</p>
+
 
 ## 🚀 About Me
 - 🧑‍💻 Currently exploring **Data Structures & Algorithms (DSA)**, **LeetCode**, and **AI-powered projects**
