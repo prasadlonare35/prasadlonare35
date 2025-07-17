@@ -1,60 +1,57 @@
-<h1 align="center">Hey there, I'm Prasad 👋</h1>
-<p align="center">
-  🚀 AI & Data Science Enthusiast • 💻 Developer • 🌱 Lifelong Learner
-</p>
+# 👋 Hey there, I'm Prasad!  
+
+🎓 *AI & Data Science Engineering Student* | ☕ Java & Python Enthusiast 
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍🎓 About Me
-
-- 🎓 Third-year engineering student (AI & Data Science)
-- 🛠️ Building cool tools with FastAPI, React, Python, and AI
-- 🧠 Currently learning Advanced ML, Prompt Engineering & Full Stack Dev
-- 🏆 Hackathon Finalist | IoT Project Winner | Open Source Contributor
-- ✍️ Blogging & documenting my dev journey soon!
+## 🚀 About Me
+- 🧑‍💻 Currently exploring **Data Structures & Algorithms (DSA)**, **LeetCode**, and **AI-powered projects**
+- 📚 Final year project: *MolVista AI – AI-Powered Molecular Docking & Drug Design*
+- 🛠 Love building practical apps like **Bookflix** – The Ultimate Digital Library 📖
+- ✨ Always learning & sharing my journey here on GitHub
 
 ---
 
-### 🚀 Projects That Define Me
-
-- 🔥 **[AutoRoastBot](https://github.com/yourusername/AutoRoastBot)** – AI chatbot that roasts chats using Gemini + pyautogui
-- 🇮🇳 **[RepFinderAI](https://github.com/yourusername/RepFinderAI)** – Search Indian MPs/MLAs by city with AI verification
-- 📊 **[Social Media Insights](https://github.com/yourusername/SocialMediaAnalysis)** – AI + AstraDB-powered analytics on post performance
-
----
-
-### 🧰 Tech Toolbox
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+## 🛠️ Tech Stack & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="49%">
-</p>
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadlonare35&layout=compact&theme=radical)
 
 ---
 
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/prasadlonare" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:prasad.yourmail@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
-  <a href="https://github.com/yourusername"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
-</p>
+## 📚 Featured Repositories
+- 📱 **Bookflix** – Android app for browsing, saving, and reading books
+- 🔢 **Java DSA Practice** – Array problems, sorting algorithms, LeetCode solutions
+- 🧪 **MolVista AI** – AI-powered drug design and molecular docking
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+**I'm an early 🐤** 
 
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+```
+
+
+
+## ✨ Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-lonare-766098257/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadlonare321@gmail.com)
+
+---
+
+> 🌱 *“Code. Learn. Share. Repeat.”*  
+> Made with ❤️ by Prasad
