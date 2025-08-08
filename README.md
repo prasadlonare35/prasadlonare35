@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hey, I'm Prasad Lonare</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Data+Science+Student+%F0%9F%93%9A;React+%7C+Python+%7C+Java+Developer+%F0%9F%94%A5;Building+AI-powered+Projects+%F0%9F%9A%80;Loves+Automation+%7C+DSA+%7C+LeetCode+%E2%9C%8C%EF%B8%8F" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Data+Science+Student+%F0%9F%93%9A;FastAPI+%7C+SQL+%7C+React+%F0%9F%94%A5;Building+AI-powered+Projects+%F0%9F%9A%80;Loves+Automation+%7C+DSA+%7C+LeetCode+%E2%9C%8C%EF%B8%8F" alt="Typing animation" />
 </p>
 
 ---
 
 
 ## 🚀 About Me
-- 🧑‍💻 Currently exploring **Data Structures & Algorithms (DSA)**, **LeetCode**, and **AI-powered projects**
+- 🧑‍💻 Currently exploring **Cloud Infrastructure Management**, **AWS**, and **AI-powered projects**
 - 📚 Final year project: *MolVista AI – AI-Powered Molecular Docking & Drug Design*
 - 🛠 Love building practical apps like **Bookflix** – The Ultimate Digital Library 📖
 - ✨ Always learning & sharing my journey here on GitHub
